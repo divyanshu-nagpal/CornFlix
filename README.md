@@ -2,7 +2,8 @@
 
 Discover, rate, and track your favorite movies with CornFlix. This React-based web app features a responsive design, intuitive interface, and interactive movie rating.
 
-![Screenshot](https://github.com/Bhupender2/CornFlix/blob/main/src/images/demo.png)
+![Uploading image.png…]()
+
 
 ## Table of Contents 📚
 
