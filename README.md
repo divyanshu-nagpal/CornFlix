@@ -11,8 +11,7 @@ Discover, rate, and track your favorite movies with CornFlix. This React-based w
 - [Key Features](#key-features)
 - [Links](#links)
 - [My Process](#my-process)
-- [Built with](#built-with)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Key Features 🎉
 
