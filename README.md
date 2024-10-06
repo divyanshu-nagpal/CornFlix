@@ -11,8 +11,6 @@ Discover, rate, and track your favorite movies with CornFlix. This React-based w
 - [Links](#links)
 - [My Process](#my-process)
 - [Built with](#built-with)
-- [Installation](#installation)
-- [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 ## Key Features 🎉
@@ -39,8 +37,3 @@ Users should be able to:
 - CSS
 - HTML
 
-### Installation 📥
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/Bhupender2/CornFlix.git
