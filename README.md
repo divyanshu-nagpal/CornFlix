@@ -31,7 +31,7 @@
 
 ## Project Showcase  
 
-[![Demo CornFlix](https://github.com/user-attachments/assets/cf43b411-642a-4978-b4a7-cc6769744769)](https://youtu.be/demo-link)  
+![image](https://github.com/user-attachments/assets/b92f12cb-fe91-4de3-8698-bdb82f195fcb)
 
 ---
 
