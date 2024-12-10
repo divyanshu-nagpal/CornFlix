@@ -1,39 +1,42 @@
-# CornFlix 🍿
+# CornFlix 🍿🎬  
 
-Discover, rate, and track your favorite movies with CornFlix. This React-based web app features a responsive design, intuitive interface, and interactive movie rating.
+*CornFlix* is an interactive movie discovery platform designed to enhance your cinematic experience. From rating your favorite films to organizing your watched list, CornFlix provides an engaging and seamless way to manage your movie preferences.  
 
-![demo](https://github.com/user-attachments/assets/cf43b411-642a-4978-b4a7-cc6769744769)
+---
 
+## Features  
 
+- **Search for Movies**: Quickly find details about your favorite films.  
+- **Movie Ratings**: Rate movies on a scale of 1 to 10 to express your opinions.  
+- **Watched List**: Keep track of rated movies in a dedicated "Watched" section with additional details.  
+- **Manage Watched Movies**: Effortlessly remove movies from your watched list as needed.  
+- **Responsive Design**: Enjoy an optimal user experience across devices with a mobile-friendly layout.  
+- **Interactive Elements**: Explore hover states for buttons and other interactive features, enhancing usability.  
 
-## Table of Contents 📚
+---
 
-- [Key Features](#key-features)
-- [Links](#links)
-- [My Process](#my-process)
+## Technology Stack  
 
+*CornFlix* is built using modern tools and technologies to ensure performance, scalability, and a great user experience:  
 
-## Key Features 🎉
+### Frontend:  
+- 🛠 *[React](https://reactjs.org/)*: For dynamic and interactive UI components.  
+- 🎨 *[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)*: For styling and layout.  
+- 🖼 *[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)*: The foundation of the web app.  
 
-Users should be able to:
+### APIs:  
+- 📡 **Movie Database API**: For fetching movie details and ratings.  
 
-- **Search for Favorite Movies:** Users can easily search for their favorite movies on the platform.
-- **Rate Movies on a Scale of 1 to 10:** Users have the option to rate any specific movie on a scale from 1 to 10.
-- **View Rated Movies in the Watched Section:** Rated movies are neatly organized in the "Watched" section, accompanied by additional information.
-- **Remove Movies from the Watched List:** Users can effortlessly remove any specific movie from their watched list.
-- **Responsive Design for Optimal Layout:** The website adapts to different screen sizes, providing users with an optimal layout for a seamless experience on various devices.
-- **Interactive Hover States:** Users can explore hover states for all interactive elements on the page, enhancing the overall interactivity of the website.
+---
 
-## Links
+## Video Showcase  
 
-- [LinkedIn](https://www.linkedin.com/in/divyanshu-nagpal-690a2b258/)
+### 🎥 Demo Photo 
+Watch CornFlix in action:  
+[![Demo CornFlix](https://github.com/user-attachments/assets/cf43b411-642a-4978-b4a7-cc6769744769)](https://youtu.be/demo-link)  
 
-## My Process 🛠️
+---
 
-### Tech Stack 🏗️
+## Explore CornFlix  
 
-- React
-- API
-- CSS
-- HTML
-
+- **LinkedIn**: [Connect here](https://www.linkedin.com/in/divyanshu-nagpal-690a2b258/)  
