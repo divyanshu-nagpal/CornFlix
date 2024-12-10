@@ -35,6 +35,6 @@
 
 ---
 
-## Explore CornFlix  
+## Connect Here 
 
-- **LinkedIn**: [Connect here](https://www.linkedin.com/in/divyanshu-nagpal-690a2b258/)  
+- [**LinkedIn**](https://www.linkedin.com/in/divyanshu-nagpal-690a2b258/)
