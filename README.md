@@ -34,7 +34,3 @@
 ![image](https://github.com/user-attachments/assets/b92f12cb-fe91-4de3-8698-bdb82f195fcb)
 
 ---
-
-## Connect Here 
-
-- [**LinkedIn**](https://www.linkedin.com/in/divyanshu-nagpal-690a2b258/)
