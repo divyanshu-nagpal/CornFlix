@@ -29,10 +29,8 @@
 
 ---
 
-## Video Showcase  
+## Project Showcase  
 
-### 🎥 Demo Photo 
-Watch CornFlix in action:  
 [![Demo CornFlix](https://github.com/user-attachments/assets/cf43b411-642a-4978-b4a7-cc6769744769)](https://youtu.be/demo-link)  
 
 ---
